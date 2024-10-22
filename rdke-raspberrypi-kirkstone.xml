@@ -9,6 +9,7 @@
     <project groups="buildscripts" name="build-scripts" path="scripts" remote="rdke" revision="feature/kirkstone-community-platforms">
         <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_SCRIPTS"/>
     </project>
+    
     <project groups="imagebuilder" name="meta-stacklayer-ipk" path="rdke/common/meta-stacklayer-ipk" remote="rdke" revision="feature/kirkstone-community-platforms">
         <annotation name="MANIFEST_EXPORT_PATH" value="MANIFEST_PATH_IMAGE_SUPPORT"/>
     </project>
